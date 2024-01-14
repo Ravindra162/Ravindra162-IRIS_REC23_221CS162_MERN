@@ -34,7 +34,7 @@ using command <h3>npx nodemon</h3> will start the server</details>
 ## References used
 <details>
   <ul>
-    <li><a href="https://www.npmjs.com/package/jsonwebtoken">ttps://www.npmjs.com/package/jsonwebtoken</a></li>
+    <li><a href="https://www.npmjs.com/package/jsonwebtoken">https://www.npmjs.com/package/jsonwebtoken</a></li>
     <li><a href="https://www.npmjs.com/package/bcryptjs">https://www.npmjs.com/package/bcryptjs</a></li>
     <li><a href="https://www.npmjs.com/package/react-toastify">https://www.npmjs.com/package/react-toastify</a></li>
     
